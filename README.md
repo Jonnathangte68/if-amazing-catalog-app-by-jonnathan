@@ -3,6 +3,12 @@ Product Catalog - Fullstack Application
 
 This project delivers a complete fullstack application for browsing products from an external catalog. It provides a fast, intuitive interface for users, supported by a reliable backend service architecture. The application runs seamlessly in a containerized environment using Docker.
 
+### Demo
+
+Here's a quick preview of the product catalog application in action:
+
+![Product Catalog Demo](docs/demo.gif)
+
 Purpose and Approach
 -----------------------
 
